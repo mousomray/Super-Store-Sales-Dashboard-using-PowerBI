@@ -19,9 +19,9 @@ After collecting csv files and loading it into PowerBI performed various activit
 removing unimportant columns, adding new columns for need (Using Dax query) and transforming the data into a format that can be easily analyzed.
  
 # Data Analysis & Visualization 
-* Created Donut chart to analyse Sales by Region, Sales by Segment, Sales by Payment Mode.
-* Created Area Line chart to analyse Month wise Sales and Profit.
-* Created Horizontal Bar chart to analyse Sales by Ship mode, Category and Sub-Category.
+* Created Donut chart to analyze Sales by Region, Sales by Segment, Sales by Payment Mode.
+* Created Area Line chart to analyze Month wise Sales and Profit.
+* Created Horizontal Bar chart to analyze Sales by Ship mode, Category and Sub-Category.
 * Created Map chart to see which state has the highest profit and sales.
 * Created KPI for to see amount of Orders, Sales, Profit and Ship Days.
 
